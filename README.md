@@ -47,7 +47,7 @@ ikoue version
 The CLI automatically checks for updates once per day. When a new version is available, you'll see:
 
 ```
-A new version is available: x.x.x
+A new version is available: 0.1.0
 Run 'ikoue self-update' to update
 ```
 
